@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Istigfar",
+      "arabic": "أَسْتَغْفِرُ اللهَ الْعَظِـيْمِ الَّذِيْ لَااِلَهَ اِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ",
+      "latin": "Astaghfirullah Hal'adzim, Aladzi Laailaha Illahuwal Khayyul Qoyyuumu Wa Atuubu Ilaiih",
+      "terjemahan": "Aku mohon ampun kepada Allah yang Maha Agung, yang tiada Tuhan selain Dia Yang Maha Hidup lagi Maha Berdiri Sendiri, dan aku bertaubat kepada-Nya."
+    },
+    {
+      "id": 2,
+      "name": "Tauhid",
+      "arabic": "اإِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِيْ وَيُمِيْتُ وَهُوَ عَلَى كُلِّ شَيْئٍ قَدِيْرٌ",
+      "latin": "Laa Ilaha Illallah Wakhdahu Laa Syarika Lahu, Lahul Mulku Walahul Khamdu Yukhyiiy Wayumiitu Wahuwa 'Alaa Kulli Syai'innqodiir",
+      "terjemahan": "Tiadailah yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya. Segala pujian dan kerajaan adalah milik Allah"
+    },
+    {
+      "id": 3,
+      "name": "Doa Perlindungan",
+      "arabic": "اَللَّهُمَّ أَجِرْنِـى مِنَ النَّارِ",
+      "latin": "Allahumma Ajirni Minan-Naar",
+      "terjemahan": "Ya Allah lindungilah aku dari api neraka"
+    },
+    {
+      "id": 4,
+      "name": "Doa keselamatan",
+      "arabic": "للَّهُمَّ أَنْتَ السَّلاَمُ، وَمِنْكَ السَّلَامُ، وَإِلَيْكَ يَعُوْدُ السَّلَامُ فَحَيِّنَارَبَّنَا بِالسَّلَامِ وَاَدْخِلْنَا الْـجَنَّةَ دَارَ السَّلَامِ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ يَا ذَاالْـجَلَالِ وَاْلإِكْرَام",
+      "latin": "Allahumma Angtassalam, Wamingkassalam, Wa Ilayka Ya'uudussalam Fakhayyina Rabbanaa Bissalaam Wa-Adkhilnaljannata Darossalaam Tabarokta Rabbanaa Wata'alayta Yaa Dzaljalaali Wal Ikraam",
+      "terjemahan": "Ya Allah, Engkaulah As-Salaam (Yang selamat dari kejelekan-kejelekan, kekurangan-kekurangan dan kerusakan-kerusakan) dan dari-Mu as-salaam (keselamatan), Maha Berkah Engkau Wahai Dzat Yang Maha Agung dan Maha Baik"
+    },
+    {
+      "id": 5,
+      "name": "Al-Fatihah",
+      "arabic": "أَعُوْذُ بِاللهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ: بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ ﴿١﴾ الْحَمْدُ لِلَّـهِ رَبِّ الْعَالَمِينَ ﴿٢﴾ الرَّحْمَـٰنِ الرَّحِيمِ ﴿٣﴾ مَالِكِ يَوْمِ الدِّينِ ﴿٤﴾إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ ﴿٥﴾ اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ ﴿٦﴾صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾ أمين",
+      "latin": "a’udzu Billahiminas Syaitho Nirrojiim. Bismillahir rohmanirro’hiim. Al’hamdulillahi robbil’aalamiin. Arro’hmanirro’him. Maliki Yawmiddiin. Iyyaka Na’budu Wa Iyyaka Nasta’iin. Ihdinash-Shiro Tholmustaqiim. Shirotholladziina An’amta ‘Alaihim Ghoiril maghdhuubi ‘Alaihim Wala Dholiin. Aamiin",
+      "terjemahan": "Segala puji bagi Allah, Tuhan seluruh alam, Yang Maha Pengasih, Lago Maha Penyayang, Pemilik hari pembalasan. Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan. Tunjukilah kami jalan yang lurus (yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat."
+    },
+    {
+      "id": 6,
+      "name": "Ayat Kursi",
+      "arabic":"أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ. بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ. اَللهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَّلَانَوْمٌ، لَهُ مَافِي السَّمَاوَاتِ وَمَافِي اْلأَرْضِ مَن ذَا الَّذِيْ يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ يَعْلَمُ مَابَيْنَ أَيْدِيْهِمْ وَمَاخَلْفَهُمْ وَلَا يُحِيْطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَآءَ، وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَاْلأَرْضَ وَلَا يَـؤدُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيْمُ",
+      "latin": "Allahu laa ilaaha illaa huwal hayyul qayyum. Laa ta'khudzuhuu sinatuw wa laa naum. Lahuu maa fis samaawaati wa maa fil ardh. Man dzal ladzii yasyfa'u 'indahuu illaa bi idznih. Ya'lamu maa bayna aidiihim wa maa khalfahum. Wa laa yuhiithuuna bi syai-im min 'ilmihii illaa bimaa syaa-a. Wasi'a kursiyyuhus samaawaati wal ardh walaa ya-uuduhuu hifzhuhumaa Wahuwal 'aliyyul 'azhiim."
+      
+    },
+    {
+      "id": 7,
+      "name": "Tasbih, Tahmid,Takbir, tahlil",
+      "arabic": "سُبْحَانَ اللهِ(33x),الْحَمْدُلِلهِ(33x), اللهُ اَكْبَرُ(33x), لَااِلٰهَ اِلَّا اللهُ(33x)",
+      "latin": "Subhanallah(tasbih),Alhamdulillah(?tahmid),Allahu Akbar(takbir),Lailaha Illallah(tahlil)",
+      "terjemahan": "Maha Suci Allah, Segala puji bagi Allah, Allah Maha Besar,Tiada tuhan selain Allah"
+    }
+  ]
